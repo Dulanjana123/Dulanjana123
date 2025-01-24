@@ -13,10 +13,10 @@
 
 </div>
 
-## 👨‍💻About Me
+## 👨‍💻 About Me
 
 ```json
-{
+ {
   "name": "Dulanjana Dissanayaka",
   "role": "Full Stack Developer",
   "skills": ["C#", ".NET Core", "TypeScript", "Angular", "React", "SQL Server", "Azure", "Docker"],
