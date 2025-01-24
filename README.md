@@ -1,7 +1,5 @@
 # Dulanjana Dissanayaka
 
-<img src="https://avatars.githubusercontent.com/u/673242?v=4" alt="Dulanjana Dissanayaka" width="150" />
-
 I am a creative individual with an array of skills ready to take your project to the next level.
 
 ## About Me
