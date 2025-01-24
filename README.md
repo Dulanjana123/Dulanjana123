@@ -34,10 +34,10 @@ I am a creative individual with an array of skills ready to take your project to
 
 ## GitHub Analytics
 
-![KD Jayakody's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kdjayakody&show_icons=true&theme=tokyonight)
+![KD Jayakody's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dulanjana&show_icons=true&theme=tokyonight)
 
 ## Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kdjayakody&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dulanjana&layout=compact&theme=tokyonight)
 
 ## Connect & Collaborate
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damith-dulanjana-dissanayaka/)
